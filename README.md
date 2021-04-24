@@ -1,3 +1,3 @@
-#make-friends
+# Rails & Vue.js
 ## contents
-友達検索，追加，チャットアプリ
+Ruby on Rails と Vue.jsのテンプレート
